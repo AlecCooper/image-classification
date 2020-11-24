@@ -1,0 +1,5 @@
+{
+    "display epochs":true,
+    "num epochs":70,
+    "learning rate":0.001,
+    "v":2}
